@@ -1,8 +1,12 @@
-<html>  
-  <head> 
-    <title> Lalisa </title>
-   <head>
-  <body>
-     <h1> Lalisa </h1>
-   <body>
-<html>
+ <!DOCTYPE html>
+  <html>
+         <head>
+              <style>
+  
+              </style>
+         </head>
+         <body>
+          <h1>Thiết  kế  website  </h1>
+          <p>  Lalisa.</p>          
+         </body>
+  </html>

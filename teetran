@@ -1,12 +1,13 @@
- <!DOCTYPE html>
-  <html>
-         <head>
+   <!DOCTYPE html>
+        <html>
+          <head>
               <style>
-  
+                    body {background-color:#FF99FF;} 
+                    p {color:#6699CC;}
               </style>
-         </head>
-         <body>
-          <h1>Thiết  kế  website  </h1>
-          <p>  Lalisa.</p>          
-         </body>
-  </html>
+          </head>
+          <body>
+              <h1>Thiết  kế  website  </h1>
+              <p>Đây  là  trang  web  đầu  tiên  của  tôi.</p>          
+          </body>
+        </html>
